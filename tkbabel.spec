@@ -1,7 +1,7 @@
 Summary:	Tk/Tcl frontend for babelfish language translation
 Name:		tkbabel
 Version:	0.59
-Release:	%mkrel 5
+Release:	%mkrel 6
 License:	GPL
 Group:		Communications
 
