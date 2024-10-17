@@ -7,7 +7,7 @@ Group:		Communications
 
 Source:		http://members.home.net/sdanis/%{name}/%{name}-%{version}.tar.bz2
 
-URL:		http://members.home.ner/sdanis/%{name}/
+URL:		https://members.home.ner/sdanis/%{name}/
 Buildarch:	noarch
 Buildroot:	%{_tmppath}/%{name}-%{version}-buildroot
 
